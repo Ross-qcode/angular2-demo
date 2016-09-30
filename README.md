@@ -1,6 +1,5 @@
 # Angular2-demo
 
-## A sample demo with Angular2
 
 ### HTML
 
